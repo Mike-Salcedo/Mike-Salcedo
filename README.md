@@ -1,7 +1,7 @@
-Hello 👋 
+Hi 👋,  I'm Mike. 
 ===========================================
 
-My name is Mike.
+
 
 While I was still in high school, I began experimenting with and researching programming, and I fell in love with it right away. 
 
