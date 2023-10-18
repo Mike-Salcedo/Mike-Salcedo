@@ -3,7 +3,7 @@ Hi 👋,  I'm Mike.
 
 
 
-While I was still in high school, I began experimenting with and researching programming, and I fell in love with it right away. 
+I began experimenting with and researching programming, and I fell in love with it right away. 
 
 I am on a self-taught journey, working full time and studying programming in my day-to-day! JavaScript is my first language, and I'm currently pursuing a full-stack roadmap with Javascript.
 
